@@ -12,3 +12,4 @@ Algoritmo mayor_de_tres
 		Fin Si
 	Fin Si
 FinAlgoritmo
+
