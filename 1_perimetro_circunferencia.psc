@@ -1,4 +1,4 @@
-Algoritmo perimetro_circunferencia
+Algoritmo Perimetro_circunferencia
 	Definir radio , perimetro Como Real
 	Escribir "Ingrese el radio de la circunferencia"
 	Leer radio
@@ -9,3 +9,4 @@ Algoritmo perimetro_circunferencia
 		Escribir "El radio debe ser mayor que 0"
 	Fin Si
 FinAlgoritmo
+
